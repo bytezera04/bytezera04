@@ -2,13 +2,14 @@
 - Welcome to my Github profile
 
 ### About Me
-- My name is enderagent and I am a programmer/developer from the UK
+- My name is enderagent and I am a programmer / developer from the UK
 
-### My Languages
-- 📚 Learning C
-- 📚 Experienced in C++
-- 📚 Experienced in C#
-- 🐍 Experienced in Python
+### My Main Languages
+- 📚 C
+- 📚 C++
+- 📚 C#
+- 🐍 Python
+- 💻 SQL
 
 <!--
 **enderagent00/enderagent00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
