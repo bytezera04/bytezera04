@@ -3,6 +3,7 @@
 
 ### About Me
 - My name is enderagent and I am a programmer / developer from the UK
+- I have an interest in cyber security
 
 ### My Main Languages
 - 📚 C
