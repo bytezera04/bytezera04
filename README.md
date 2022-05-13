@@ -2,7 +2,10 @@
 Welcome to my Github
 
 ### My Languages
-test
+📚 Learning C
+📚 Experienced in C++
+📚 Experienced in C#
+🐍 Experienced in Python
 
 <!--
 **enderagent00/enderagent00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
