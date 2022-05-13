@@ -1,5 +1,8 @@
 ### Hello 👋
-- Welcome to my Github
+- Welcome to my Github profile
+
+### About Me
+- My name is enderagent and I am a programmer/developer from the UK
 
 ### My Languages
 - 📚 Learning C
