@@ -4,7 +4,7 @@
 
 ### About Me
 
-- My name is tokyolatter and I am a developer / programmer from the UK
+- I am a developer / programmer from the UK
 
 ### My Main Languages
 
