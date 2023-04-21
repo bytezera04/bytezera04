@@ -11,6 +11,8 @@ I'm tfoz04 from England, and I am a software developer. I really enjoy lower lev
 
 <!-- Languages and Tools -->
 
+### Languages and Tools
+
 <link rel = "css/styles.css", type = "text/css", href = "styles.css">
 
 <div class="image-row">
