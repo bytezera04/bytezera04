@@ -20,6 +20,8 @@ Hello 👋 I'm tfoz04 from England, and I am a software developer. I really enjo
 - Databases
 - Networking / Sockets
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfoz04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <link rel = "css/styles.css", type = "text/css", href = "styles.css">
 
 <div class="image-row">
