@@ -31,4 +31,5 @@ Hello 👋 I'm tfoz04 from England, and I am a software developer. I really enjo
   <img src="icons/tool-git.svg" alt="Language C++" width="64" height="64">
   <img src="icons/tool-sqlite.svg" alt="Language C#" width="64" height="64">
   <img src="icons/tools-windows.svg" alt="Language Python" width="64" height="64">
+  <img src="icons/tools-visualstudio.svg" alt="Language Python" width="64" height="64">
 </div>
