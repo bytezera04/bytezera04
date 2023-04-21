@@ -4,4 +4,6 @@
   flex-wrap: wrap;
   justify-content: flex-start;
   align-items: center;
+  color: blue;
+  background-color: yellow;
 }
