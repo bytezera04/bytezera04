@@ -13,6 +13,13 @@ Hello 👋 I'm tfoz04 from England, and I am a software developer. I really enjo
 
 ### Languages and Tools
 
+- C Programming
+- C++ Programming
+- C# Programming
+- Python Programming
+- Databases
+- Networking / Sockets
+
 <link rel = "css/styles.css", type = "text/css", href = "styles.css">
 
 <div class="image-row">
