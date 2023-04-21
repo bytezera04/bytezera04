@@ -1,9 +1,9 @@
 
 <!-- Basic Introduction -->
 
-### Hello 👋
+### About
 
-I'm tfoz04 from England, and I am a software developer. I really enjoy lower level languages such as C++, I enjoy learning new things related to software development.
+Hello 👋 I'm tfoz04 from England, and I am a software developer. I really enjoy lower level languages such as C++, I enjoy learning new things related to software development.
 
 <!-- Profile Stats -->
 
