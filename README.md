@@ -1,21 +1,10 @@
+
+<!-- Basic Introduction -->
+
 ### Hello 👋
 
-- Welcome to my Github!
+I'm tfoz04 from England, and I am a software developer. I really enjoy lower level languages such as C++, I enjoy learning new things related to software development.
 
-### About Me
+<!-- Profile Stats -->
 
-- I am a developer / programmer from the UK
-
-### My Main Languages
-
-- 📓 C Programming
-- 📘 C++ Programming
-- 📗 C# Programming
-- 🐍 Python Programming
-- 💻 SQL Databases
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tokyolatter00&label=Profile%20views&color=0e75b6&style=flat" alt="tokyolatter00" /> </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tokyolatter00&show_icons=true&locale=en&layout=compact" alt="tokyolatter00" /></p>
+[![tajfoz04's GitHub stats](https://github-readme-stats.vercel.app/api?username=tajfoz04)](https://github.com/anuraghazra/github-readme-stats)
