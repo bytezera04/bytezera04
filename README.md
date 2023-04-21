@@ -7,4 +7,4 @@ I'm tfoz04 from England, and I am a software developer. I really enjoy lower lev
 
 <!-- Profile Stats -->
 
-[![tfoz04's GitHub stats](https://github-readme-stats.vercel.app/api?username=tfoz04)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tfoz04)](https://github.com/anuraghazra/github-readme-stats)
