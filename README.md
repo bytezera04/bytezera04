@@ -3,7 +3,7 @@
 
 ### About
 
-Hello 👋 I'm tokyolatter04 from England, and I am a software developer. I really enjoy lower level languages such as C++, I enjoy learning new things related to software development. I am interested in programming, technology and cyber security.
+Hello 👋 I'm tokyolatter04. I am an 18 year old software developer from England. I really enjoy lower level languages such as C++, I enjoy learning new things related to software development. I am interested in programming, technology and cyber security.
 
 <!-- Profile Stats -->
 
