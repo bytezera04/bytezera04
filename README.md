@@ -3,11 +3,11 @@
 
 ### About
 
-Hello 👋 I'm tfoz04 from England, and I am a software developer. I really enjoy lower level languages such as C++, I enjoy learning new things related to software development. I am interested in programming, technology and cyber security.
+Hello 👋 I'm tokyolatter04 from England, and I am a software developer. I really enjoy lower level languages such as C++, I enjoy learning new things related to software development. I am interested in programming, technology and cyber security.
 
 <!-- Profile Stats -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tfoz04)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tokyolatter04)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Languages and Tools -->
 
@@ -20,7 +20,7 @@ Hello 👋 I'm tfoz04 from England, and I am a software developer. I really enjo
 - Databases
 - Networking / Sockets
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfoz04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokyolatter04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <link rel = "css/styles.css", type = "text/css", href = "styles.css">
 
