@@ -3,7 +3,7 @@
 
 ### About
 
-Hello 👋 I'm tokyolatter04. I am a software developer from England. I really enjoy lower level languages such as C++, I enjoy learning new things related to software development. I am interested in programming, technology and cyber security.
+Hello 👋 I'm tokyolatter04
 
 <!-- Profile Stats -->
 
