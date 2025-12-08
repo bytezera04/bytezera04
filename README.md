@@ -17,14 +17,3 @@ Hello 👋 I'm bytezera04
 
 <link rel = "css/styles.css", type = "text/css", href = "styles.css">
 
-<div class="image-row">
-  <img src="icons/lang-c.svg" alt="Language C" width="64" height="64">
-  <img src="icons/lang-cpp.svg" alt="Language C++" width="64" height="64">
-  <img src="icons/lang-csharp.svg" alt="Language C#" width="64" height="64">
-  <img src="icons/lang-python.svg" alt="Language Python" width="64" height="64">
-  
-  <img src="icons/tool-git.svg" alt="Language C++" width="64" height="64">
-  <img src="icons/tool-sqlite.svg" alt="Language C#" width="64" height="64">
-  <img src="icons/tools-windows.svg" alt="Language Python" width="64" height="64">
-  <img src="icons/tools-visualstudio.svg" alt="Language Python" width="64" height="64">
-</div>
