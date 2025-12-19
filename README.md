@@ -3,7 +3,7 @@
 
 ### About
 
-Hello 👋 I'm bytezera04
+I'm a full-stack web developer focused on building modern and performant applications, primarily with Next.js and React. Experienced in working with databases, Python scripting, and backend development with C# and the .NET ecosystem. I have a strong foundation in low-level languages like C and C++, though my current work lately is mostly web-focused.
 
 <!-- Profile Stats -->
 
@@ -30,3 +30,7 @@ Hello 👋 I'm bytezera04
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" align="left" alt="C" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" align="left" alt="C++" width="30px" style="padding-right:10px;" />    
 <br />
+
+#
+
+
