@@ -3,7 +3,7 @@
 
 ### About
 
-I'm a full-stack web developer focused on building modern and performant applications, primarily with Next.js and React. Experienced in working with databases, Python scripting, and backend development with C# and the .NET ecosystem. I have a strong foundation in low-level languages like C and C++, though my current work lately is mostly web-focused.
+I'm a full-stack web developer focused on building modern and performant applications, primarily with Next.js and React. Experienced in database-driven applications, API design, Python scripting, and application development with C# and .NET. I also bring a strong foundation in C and C++, contributing to a strong understanding of application performance and system-level concepts.
 
 <!-- Profile Stats -->
 
